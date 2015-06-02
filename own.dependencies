@@ -5,7 +5,7 @@
   },
   {
     "repository": "CyanogenMod/android_kernel_samsung_klte",
-    "target_path": "kernel/samsung/klte"
+    "target_path": "kernel/samsung/klte",
     "revision": "cm-12.1",
     "remote": "github"
   }
