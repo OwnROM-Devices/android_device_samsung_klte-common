@@ -1,7 +1,9 @@
 [
   {
-    "repository": "android_device_samsung_msm8974-common",
+    "repository": "OwnROM-Devices/android_device_samsung_msm8974-common",
     "target_path": "device/samsung/msm8974-common"
+    "revision": "cm-12.1",
+    "remote": "github"
   },
   {
     "repository": "CyanogenMod/android_kernel_samsung_klte",
