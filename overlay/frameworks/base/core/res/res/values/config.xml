@@ -282,4 +282,7 @@
     <string name="config_perf_profile_prop">sys.perf.profile</string>
     <string name="config_perf_profile_default_entry">1</string>
 
+     <!-- Enable HW Keys by default -->
+     <bool name="config_hwKeysPref">true</bool>
+     
 </resources>
